@@ -1,0 +1,70 @@
+body{
+    display: flex;
+    justify-content:center;
+    margin: 0px;
+    background-color: rgb(243, 230, 215);
+    padding-top: 55px;
+}
+.makarna{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-left: 50px;
+    width: 800px;
+    height: 400px;
+    border-radius: 95px;
+    padding: 50px;
+}
+.discepe{
+    width: 1000px;
+    height: 1580px;
+    background-color: rgb(249, 248, 246);
+    border-radius: 55px;
+}
+.makarnayazi{
+    display: flex;
+    justify-content:start ;
+    margin-left: 50px;
+    margin-top:-20px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+    text-transform:capitalize;
+}
+.ilkp{
+    display: flex;
+    margin-left: 8px;
+    font-style: italic;
+    text-transform:capitalize;
+}
+.yapilis{
+    
+    background-color: rgb(251, 222, 251);
+    border-radius: 9px;
+}
+.zaman{
+    margin-left: 20px;
+    font-size: 30px;
+    color: rgb(137, 63, 137) ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ulyapilis li:hover{
+    font-size: 30px;
+}
+ul li{
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+ol li{
+    text-transform:capitalize;
+}
+hr{
+    width: 90%;
+}
+h4{
+    display: inline;
+    margin-left: 200px;
+}
+.red{
+    color: rgb(156, 34, 34);
+
+}  
